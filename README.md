@@ -33,3 +33,69 @@
   </main>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head><title>About - DNx</title></head>
+<body>
+<h1>About DNx Group of Company</h1>
+<p>DNx Group of Company is a marketing-based opportunity platform.</p>
+<a href="index.html">Back</a>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head><title>Contact - DNx</title></head>
+<body>
+<h1>Contact Us</h1>
+<p>Phone: 7338395625</p>
+<a href="index.html">Back</a>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head><title>Register - DNx</title></head>
+<body>
+<h1>Register</h1>
+<form>
+  Name:<br><input type="text"><br>
+  Email:<br><input type="email"><br>
+  Password:<br><input type="password"><br><br>
+  <button>Register</button>
+</form>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head><title>Login - DNx</title></head>
+<body>
+<h1>Login</h1>
+<form action="dashboard.html">
+  Email:<br><input type="email"><br>
+  Password:<br><input type="password"><br><br>
+  <button>Login</button>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head><title>Dashboard - DNx</title></head>
+<body>
+<h1>User Dashboard</h1>
+
+<p><b>Your Referral Link:</b></p>
+<p>https://dnxgroup.com/ref=USER123</p>
+
+<p><b>Total Earning:</b> ₹0.00</p>
+
+<a href="index.html">Logout</a>
+</body>
+</html>
