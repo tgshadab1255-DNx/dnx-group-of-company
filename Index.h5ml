@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DNx Group of Company</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>DNx Group of Company</h1>
+  <h3>Grow Together. Succeed Together.</h3>
+
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="contact.html">Contact</a> |
+    <a href="login.html">Login</a>
+  </nav>
+
+  <p>Welcome to DNx Group of Company marketing platform.</p>
+  <p>Register and start growing with us.</p>
+
+  <a href="register.html">Register Now</a>
+</body>
+</html>.
